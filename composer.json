@@ -1,5 +1,5 @@
 {
-  "name": "lotsofpixels/modul-invoicepayment",
+  "name": "lotsofpixels/module-invoicepayment-magento2",
   "description": "Payment module for invoice payment",
   "version": "1.0.0",
   "type": "magento2-module",
