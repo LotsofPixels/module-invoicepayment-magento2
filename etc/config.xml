@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Store/etc/config.xsd">
+    <default>
+        <payment>
+            <invoicepayment>
+                <model>Lotsofpixels\InvoicePayment\Model\PaymentMethod</model>
+                <active>1</active>
+                <title>Invoice Payment</title>
+                <order_status>processing</order_status><!-- set default order status-->
+            </invoicepayment>
+        </payment>
+    </default>
+</config>
